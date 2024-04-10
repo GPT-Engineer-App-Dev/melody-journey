@@ -1,12 +1,13 @@
 # melody-journey
 
-Implement a stylish landing page for a band's touring website, with the following features:
-- Interactive header with a placeholder for band imagery 
-- "About the Band" section with lorem ipsum placeholder text
-- "Upcoming Tour Dates" section with a placeholder message like "Tour dates coming soon!"
+Implement a stylish landing page for the Red Hot Chili Peppers' touring website, with the following features:
+- Interactive header with RHCP imagery and logo 
+- "Upcoming Tour Dates" section (leave the actual dates blank for now)
+- Embedded YouTube video of a popular RHCP music video 
+- Links to the band's social media profiles
+- A short "About the Band" blurb
 - Mailing list signup form
-- Social media links (just using the social media logos, no need to link anywhere yet)
-Use "The Band" as a placeholder name for now. Make the design visually impactful and exciting to build anticipation for the tour!
+Use a visually striking design with bold colors that match RHCP's aesthetic. The page should be impressive and build excitement for the upcoming tour.
 
 ## Collaborate with GPT Engineer
 
